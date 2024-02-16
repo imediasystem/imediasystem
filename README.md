@@ -1,7 +1,7 @@
-- 👋 Hi, I’m iMedia SysteM
+- 👋 Hi, I’m small IT company iMedia SysteM
 - 👀 I’m interested in coding and programming
 - 🌱 I’m currently learning .NET, C#, C++, HTML, CSS & JS
-- 💞️ I’m looking to collaborate on IT company
+- 💞️ I’m looking to collaborate on another IT companies
 - 📫 How to reach me imediasystem@hotmail.com
 
 <b>Connect with me</b>
