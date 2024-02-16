@@ -1,6 +1,6 @@
 - 👋 Hi, I’m iMedia SysteM
 - 👀 I’m interested in coding and programming
-- 🌱 I’m currently learning .NET, C#, HTML, CSS & JS
+- 🌱 I’m currently learning .NET, C#, C++, HTML, CSS & JS
 - 💞️ I’m looking to collaborate on IT company
 - 📫 How to reach me imediasystem@hotmail.com
 
