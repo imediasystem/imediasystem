@@ -1,10 +1,10 @@
 - 👋 Hi, I’m iMedia SysteM
 - 👀 I’m interested in coding and programming
-- 🌱 I’m currently learning .NET, C#, HTML,CSS & JS
+- 🌱 I’m currently learning .NET, C#, HTML, CSS & JS
 - 💞️ I’m looking to collaborate on IT company
 - 📫 How to reach me imediasystem@hotmail.com
 
-Connect with me
+<b>Connect with me</b>
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/company/101163318/admin/feed/posts/)
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/5379437/mohammad-faisal)
