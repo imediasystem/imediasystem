@@ -1,4 +1,4 @@
-- 👋 Hi, I’m small IT company iMedia SysteM
+- 👋 Hi, I’m a software programmer from Katowice - Poland
 - 👀 I’m interested in coding and programming
 - 🌱 I’m currently learning .NET, C#, C++, HTML, CSS & JS
 - 💞️ I’m looking for cooperation with other IT enthusiasts
