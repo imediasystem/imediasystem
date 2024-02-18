@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a software programmer from Poland
+- 👋 Hi, I’m a frontend developer from Poland
 - 👀 I’m interested in coding and programming
 - 🌱 I’m currently learning .NET, C#, C++, HTML, CSS & JS
 - 💞️ I’m looking for cooperation with other IT enthusiasts
