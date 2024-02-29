@@ -1,6 +1,6 @@
 <b>Hello World!</b>
 
-- 👋 Hi, I’m a web developer from Poland
+- 👋 Hi, I’m a webmaster from Poland
 - 👀 I’m interested in coding and programming
 - 🌱 I’m currently learning .NET, C#, C++, JAVA, HTML, CSS & JS
 - 💞️ I’m looking for cooperation with other IT enthusiasts
