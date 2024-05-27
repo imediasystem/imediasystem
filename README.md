@@ -20,6 +20,9 @@
 
 [<img align="left" alt="replit" src="https://img.shields.io/badge/replit-%2343853D.svg?&style=for-the-badge&logo=replit&logoColor=white" />](https://replit.com/@imediasystem)</br>
 
+<br><b>My Apps</b><br>
+
+![SkillCase2](https://github.com/imediasystem/imediasystem/assets/125789515/cec0f62d-5171-4591-a169-d209132063d5)
 
 <!---
 imediasystem/imediasystem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
