@@ -1,4 +1,5 @@
 <b>Hello World!</b>
+![Logo 200 ver 2 horizontal](https://github.com/imediasystem/imediasystem/assets/125789515/ae4d5710-4b38-4314-b7ee-a9fba6745c4b)
 
 - 👋 Hi, I’m a webmaster from Poland
 - 👀 I’m interested in coding and programming
