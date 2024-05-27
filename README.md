@@ -23,7 +23,8 @@
 <br><b>My Apps</b><br>
 
 ![SkillCase3-200](https://github.com/imediasystem/imediasystem/assets/125789515/2929ac38-94ba-482b-a564-d41e19699fc4)
-![PaySal-200](https://github.com/imediasystem/imediasystem/assets/125789515/0efce8c2-34de-4f89-8962-1aa24e84a5fa)
+![PaySal-200](https://github.com/imediasystem/imediasystem/assets/125789515/62ee8f72-e3e6-4312-8e4b-86ce26db3097)
+
 
 <!---
 imediasystem/imediasystem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
