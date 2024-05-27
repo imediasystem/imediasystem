@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m a webmaster from Poland
 - 👀 I’m interested in coding and programming
-- 🌱 I’m currently learning .NET, C#, C++, JAVA, HTML5, CSS3, JavaScript, jQuery, AJAX, Node.js
+- 🌱 I’m currently learning C++ and JAVA
 - 💞️ I’m looking for cooperation with other IT enthusiasts
 - 📫 How to reach me imediasystem@hotmail.com
 
