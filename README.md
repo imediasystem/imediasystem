@@ -1,6 +1,7 @@
 <b>Hello World!</b>
 <br>
-![Logo 200 ver 2 horizontal](https://github.com/imediasystem/imediasystem/assets/125789515/ae4d5710-4b38-4314-b7ee-a9fba6745c4b)
+![Logo 400 ver 2 text](https://github.com/imediasystem/imediasystem/assets/125789515/b749e32e-53a9-4081-abe1-7c66dcb2fca8)
+
 
 - 👋 Hi, I’m a webmaster from Poland
 - 👀 I’m interested in coding and programming
