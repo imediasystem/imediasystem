@@ -21,7 +21,7 @@
 
 [<img align="left" alt="replit" src="https://img.shields.io/badge/replit-%2343853D.svg?&style=for-the-badge&logo=replit&logoColor=white" />](https://replit.com/@imediasystem)</br>
 
-<br><b>My Apps</b><br>
+<br><b>My Apps Projects</b><br>
 
 ![CaseSkill-200](https://github.com/imediasystem/imediasystem/assets/125789515/184202c2-d371-48f6-9d64-14a52baa3d56)
 ![PaySal-200](https://github.com/imediasystem/imediasystem/assets/125789515/3ccb7154-0f67-4346-8895-a0c0cb778c72)
