@@ -7,7 +7,7 @@
 - 👀 I’m interested in coding and programming
 - 🌱 I’m currently learning C++ and JAVA
 - 💞️ I’m looking for cooperation with other IT enthusiasts
-- 📫 How to reach me imediasystem@hotmail.com
+- 📫 How to reach me - imediasystem@hotmail.com
 
 <br><b>Connect with me</b>
 
