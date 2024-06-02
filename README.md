@@ -19,7 +19,7 @@
 
 <br><b>My projects</b><br>
 
-[<img align="left" alt="codepen" src="https://img.shields.io/badge/codepen-%2343853D.svg?&style=for-the-badge&logo=replit&logoColor=white" />](https://replit.com/@imediasystem)
+[<img align="left" alt="codepen" src="https://img.shields.io/badge/codepen-%2343853D.svg?&style=for-the-badge&logo=codepen&logoColor=white" />](https://replit.com/@imediasystem)
 [<img align="left" alt="replit" src="https://img.shields.io/badge/replit-%2343853D.svg?&style=for-the-badge&logo=replit&logoColor=white" />](https://replit.com/@imediasystem)</br>
 
 <br><b>My Apps Projects</b><br>
