@@ -1,4 +1,4 @@
-![Logo 400 ver 2 text](https://github.com/imediasystem/imediasystem/assets/125789515/b749e32e-53a9-4081-abe1-7c66dcb2fca8)
+
 <br>
 <b>Hello World!</b>
 
