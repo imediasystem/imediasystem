@@ -1,4 +1,4 @@
-![iMedia SysteM 107 shadow](https://github.com/imediasystem/imediasystem/assets/125789515/7f017b1d-bd49-4013-8786-cc4b273214f7)
+![iMedia SysteM 107 white](https://github.com/imediasystem/imediasystem/assets/125789515/38f4dc24-105e-4215-871f-6c524ed82896)
 <br>
 <b>Hello World!</b>
 
