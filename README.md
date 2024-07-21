@@ -5,7 +5,7 @@
 - 👋 I’m a webmaster from Poland
 - ✨ I'm working on multiple frontend and backend project using .NET, C#, HTML5, CSS3, JavaScript, jQuery, AJAX and Node.js
 - 👀 I’m interested in coding and programming
-- 🌱 I’m currently learning PHP and C++
+- 🌱 I’m currently learning Responsive Web Design
 - 💞️ I’m looking for cooperation with other IT enthusiasts
 - 📫 How to reach me - imediasystem@hotmail.com
 
