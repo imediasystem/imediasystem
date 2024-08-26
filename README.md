@@ -2,7 +2,7 @@
 <br>
 <b>Hello World!</b>
 
-- 👋 I’m a webmaster from Poland
+- 👋 I’m a WebMaster from Poland
 - ✨ I'm working on multiple frontend and backend project using .NET, C#, HTML5, CSS3, JavaScript, jQuery, React, Angular and Node.js
 - 👀 I’m interested in coding and programming
 - 🌱 I’m currently learning Responsive Web Design
