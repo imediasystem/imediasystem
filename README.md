@@ -1,5 +1,5 @@
-![iMedia SysteM 9 white GitHub](https://github.com/imediasystem/imediasystem/assets/125789515/e810d007-19ef-489a-8e5c-e0efd22221f1)
-<br>
+<br>![iMedia SysteM 8 - 113 horizontal](https://github.com/user-attachments/assets/88b74ac8-78b9-4cc1-8dd8-53abd2ac0d47)
+
 <b>Hello World!</b>
 
 - 👋 I’m a WebMaster from Poland
