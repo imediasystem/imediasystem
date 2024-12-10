@@ -5,7 +5,7 @@
 
 - 👋 I’m a WebMaster from Poland
 - ✨ I'm working on multiple frontend and backend project
-- 👋 I'm using .NET, C#, HTML5, CSS3, JavaScript, jQuery, React, Angular, Webpack, Babel, Gulp & Node.js
+- 💻 I'm using .NET, C#, HTML5, CSS3, JavaScript, jQuery, React, Angular, Webpack, Babel, Gulp & Node.js
 - 👀 I’m interested in coding and programming
 - 🌱 I’m currently learning Responsive Web Design
 - 💞️ I’m looking for cooperation with other IT enthusiasts
@@ -20,9 +20,10 @@
 
 <br><b>Expertise</b>
 
-[<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />]
-[<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />]
-[<img align="left" alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />]<br>
+<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="left" alt="angular" src="https://img.shields.io/badge/angular-%23232F3E.svg?&style=for-the-badge&logo=angular&logoColor=white" />
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" alt="oracle" src="https://img.shields.io/badge/oracle-%23316192.svg?&style=for-the-badge&logo=oracle&logoColor=white" /></br>
 
 <br><b>My projects</b><br>
 
