@@ -4,7 +4,8 @@
 <b>Hello World!</b>
 
 - 👋 I’m a WebMaster from Poland
-- ✨ I'm working on multiple frontend and backend project using .NET, C#, HTML5, CSS3, JavaScript, jQuery, React, Angular & Node.js
+- ✨ I'm working on multiple frontend and backend project
+- 👋 I'm using .NET, C#, HTML5, CSS3, JavaScript, jQuery, React, Angular, Webpack, Babel, Gulp & Node.js
 - 👀 I’m interested in coding and programming
 - 🌱 I’m currently learning Responsive Web Design
 - 💞️ I’m looking for cooperation with other IT enthusiasts
@@ -17,6 +18,11 @@
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/christoffg74/)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/iMediaSysteM)</br>
 
+<br><b>Expertise</b>
+
+[<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />]
+[<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />]
+[<img align="left" alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />]<br>
 
 <br><b>My projects</b><br>
 
