@@ -7,8 +7,8 @@
 - ✨ I'm working on multiple frontend and backend project
 - 💻 I'm using .NET, C#, HTML5, CSS3, JavaScript, jQuery, Ember, React, Angular, Webpack, Babel, Gulp & Node.js
 - 👀 I’m interested in coding and programming
-- 🌱 I’m currently learning Responsive Web Design
-- 💞️ I’m looking for cooperation with other IT enthusiasts
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking for other IT enthusiasts for cooperation
 - 📫 How to reach me - imediasystem@hotmail.com
 
 <br><b>Connect with me</b>
