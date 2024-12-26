@@ -18,7 +18,7 @@
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/christoffg74/)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/iMediaSysteM)</br>
 
-<br><b>Expertise</b>
+<br><b>Expertise</b><br>
 
 <img align="left" alt="oracle" src="https://img.shields.io/badge/oracle-%23316192.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
