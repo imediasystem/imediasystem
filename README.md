@@ -29,7 +29,7 @@
 <br><b>My projects</b></br>
 
 [<img align="left" alt="codepen" src="https://img.shields.io/badge/codepen-red.svg?&style=for-the-badge&logo=codepen&logoColor=white" />](https://codepen.io/imediasystem)
-[<img align="left" alt="replit" src="https://img.shields.io/badge/replit-darkgreen.svg?&style=for-the-badge&logo=replit&logoColor=white" />](https://replit.com/@imediasystem)</br>
+[<img align="left" alt="replit" src="https://img.shields.io/badge/replit-teal.svg?&style=for-the-badge&logo=replit&logoColor=white" />](https://replit.com/@imediasystem)</br>
 
 <br><b>My Apps Projects</b></br>
 
