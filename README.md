@@ -38,10 +38,6 @@
 ![TransSol](https://github.com/imediasystem/imediasystem/assets/125789515/ea02a35e-def7-4c51-937d-9c840b05b4f8)
 ![BookStore-200](https://github.com/imediasystem/imediasystem/assets/125789515/a6c11279-efdf-41d0-8e44-725eace62de5)
 
-[Certificate C# gotoit.pdf](https://github.com/user-attachments/files/18510334/Certificate.C.gotoit.pdf)
-
-
-
 <!---
 imediasystem/imediasystem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
