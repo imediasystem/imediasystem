@@ -22,7 +22,7 @@
 
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="angular" src="https://img.shields.io/badge/angular-%23232F3E.svg?&style=for-the-badge&logo=angular&logoColor=white" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="angular" src="https://img.shields.io/badge/wordpress-brown.svg?&style=for-the-badge&logo=wordpress&logoColor=white" />
 <img align="left" alt="oracle" src="https://img.shields.io/badge/oracle-%23316192.svg?&style=for-the-badge&logo=oracle&logoColor=white" /></br>
 
