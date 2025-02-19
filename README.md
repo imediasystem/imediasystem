@@ -23,9 +23,9 @@
 <img align="left" alt="jquery" src="https://img.shields.io/badge/jquery-brown.svg?style=for-the-badge&logo=jquery&logoColor=%23F7DF1E" />
 <img align="left" alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="angular" src="https://img.shields.io/badge/angular-%23E23237.svg?style=for-the-badge&logo=angular&logoColor=white" />
+<img align="left" alt="ember" src="https://img.shields.io/badge/ember-1C1E24?style=for-the-badge&logo=ember.js&logoColor=#D04A37" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="wordpress" src="https://img.shields.io/badge/wordpress-brown.svg?&style=for-the-badge&logo=wordpress&logoColor=white" />
-<img align="left" alt="oracle" src="https://img.shields.io/badge/oracle-%23316192.svg?&style=for-the-badge&logo=oracle&logoColor=white" /></br>
+<img align="left" alt="wordpress" src="https://img.shields.io/badge/wordpress-brown.svg?&style=for-the-badge&logo=wordpress&logoColor=white" /></br>
 
 <br><b>My projects</b></br>
 
