@@ -1,4 +1,4 @@
-<br>![iMedia SysteM 8 - 113 horizontal](https://github.com/user-attachments/assets/4f8845ec-6b51-44a3-8360-e146b1a9265e)
+![iMedia SysteM 8 - 113 horizontal](https://github.com/user-attachments/assets/4f8845ec-6b51-44a3-8360-e146b1a9265e)
 
 
 <b>Hello World!</b>
