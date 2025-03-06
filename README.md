@@ -29,7 +29,7 @@
 <img align="left" alt="angular" src="https://img.shields.io/badge/angular-%23E23237.svg?style=for-the-badge&logo=angular&logoColor=white" />
 <img align="left" alt="ember" src="https://img.shields.io/badge/ember-1C1E24?style=for-the-badge&logo=ember.js&logoColor=#D04A37" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="wordpress" src="https://img.shields.io/badge/wordpress-brown.svg?&style=for-the-badge&logo=wordpress&logoColor=white" /></br>
+<img align="left" alt="webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" /></br>
 
 &nbsp;
 
