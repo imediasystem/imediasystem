@@ -22,21 +22,23 @@
 
 &nbsp;
 
-<b>Expertise</b>
+<b>Frontend</b>
 
 <img align="left" alt="jquery" src="https://img.shields.io/badge/jquery-brown.svg?style=for-the-badge&logo=jquery&logoColor=%23F7DF1E" />
 <img align="left" alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="angular" src="https://img.shields.io/badge/angular-%23E23237.svg?style=for-the-badge&logo=angular&logoColor=white" />
 <img align="left" alt="ember" src="https://img.shields.io/badge/ember-1C1E24?style=for-the-badge&logo=ember.js&logoColor=#D04A37" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" /></br>
+
+</br>
 
 &nbsp;
 
-<b>My projects</b>
+<b>Backend</b>
 
-[<img align="left" alt="codepen" src="https://img.shields.io/badge/codepen-red.svg?&style=for-the-badge&logo=codepen&logoColor=white" />](https://codepen.io/imediasystem)
-[<img align="left" alt="replit" src="https://img.shields.io/badge/replit-teal.svg?&style=for-the-badge&logo=replit&logoColor=white" />](https://replit.com/@imediasystem)</br>
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" alt="webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
+<img align="left" alt="babel" src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" />
+<img align="left" alt="babel" src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" /></br>
 
 &nbsp;
 
