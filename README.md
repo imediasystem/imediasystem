@@ -18,8 +18,6 @@
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/christoffg74/)
 [<img align="left" alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />](https://twitter.com/iMediaSysteM)</br>
 
-&nbsp;
-
 <b>Frontend</b>
 
 <img align="left" alt="jquery" src="https://img.shields.io/badge/jquery-brown.svg?style=for-the-badge&logo=jquery&logoColor=%23F7DF1E" />
