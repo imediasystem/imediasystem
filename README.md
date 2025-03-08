@@ -20,6 +20,12 @@
 
 &nbsp;
 
+<b>Expertise</b>
+
+<img align="left" alt="c#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+
+&nbsp;
+
 <b>Frontend</b>
 
 <img align="left" alt="jquery" src="https://img.shields.io/badge/jquery-brown.svg?style=for-the-badge&logo=jquery&logoColor=%23F7DF1E" />
