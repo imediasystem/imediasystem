@@ -3,12 +3,12 @@
 
 <b>Hello World!</b>
 
-- 💥 I’m a WebMaster from Poland
+- 🧑‍💻 I’m a WebMaster from Poland
 - ✨ I'm working on multiple frontend and backend project
 - 💻 I'm using .NET, C#, HTML5, CSS3, JavaScript, jQuery, Ember, React, Angular, Webpack, Babel, Gulp & Node.js
 - 👀 I’m interested in coding and programming
 - 🌱 I’m currently learning Data Science & Power BI
-- 💞️ I’m looking for other IT enthusiasts for cooperation
+- 💥 I’m looking for other IT enthusiasts for cooperation
 - 📫 How to reach me - imediasystem@hotmail.com</br>
 
 <b>Connect with me</b>
