@@ -29,7 +29,7 @@
 
 <b>MEAN Stack</b>
 
-![MEAN2](https://github.com/user-attachments/assets/5c9ff9e7-2f0d-4065-a223-06b26ec6a83b)
+![mean-stack2](https://github.com/user-attachments/assets/107ce35f-4455-4045-ab32-f1402a2cdf05)
 
 <img align="left" alt="mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img align="left" alt="expressjs" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
