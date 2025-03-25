@@ -29,14 +29,7 @@
 
 <b>MEAN Stack</b>
 
-![mean-stack2](https://github.com/user-attachments/assets/107ce35f-4455-4045-ab32-f1402a2cdf05)
-
-<img align="left" alt="mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img align="left" alt="expressjs" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-<img align="left" alt="angular" src="https://img.shields.io/badge/angular-%23E23237.svg?style=for-the-badge&logo=angular&logoColor=white" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=%23F7DF1E" />
-
-&nbsp;
+![mean-stack500](https://github.com/user-attachments/assets/da2757ad-da08-48ed-b254-64bba1aa5043)
 
 <b>Front-End</b>
 
