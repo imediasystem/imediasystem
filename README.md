@@ -3,7 +3,7 @@
 
 <b>Hello World!</b>
 
-- 🖥️ I’m a WebMaster from Poland
+- 🖥️ I’m a .NET Dev from Poland
 - ✨ I'm working on multiple frontend and backend project
 - 💻 I'm using .NET, C#, HTML5, CSS3, JavaScript, jQuery, Ember, React, Angular, Webpack, Babel, Gulp & Node.js
 - 👀 I’m interested in coding and programming
