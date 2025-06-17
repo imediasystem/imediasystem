@@ -4,7 +4,7 @@
 <b>Hello World!</b>
 
 - 🖥️ I’m a .NET Dev and Web Designer from Poland
-- ✨ I'm working on multiple frontend and backend project
+- ✨ I'm working on multiple frontend and backend projects
 - 💻 I'm using .NET, C#, HTML5, CSS3, JavaScript, jQuery, Ember, React, Angular, Webpack, Babel, Gulp & Node.js
 - 👀 I’m interested in coding and programming
 - 🌱 I’m currently learning Data Science & Power BI
