@@ -3,13 +3,13 @@
 
 <b>Hello World!</b>
 
-- 🖥️ I’m a Web Designer and .NET Web Dev from Poland
+- 😎 I’m a Web Designer and .NET Web Dev from Poland
 - ✨ I'm working on multiple frontend / backend projects & web apps
-- 💻 I'm using HTML5, CSS3, JavaScript, jQuery, Ember, Angular, npm, Node.js & .NET, C#
+- 🖥️ I'm using HTML5, CSS3, JavaScript, jQuery, Ember, Angular, npm, Node.js & .NET, C#
 - 👀 I’m interested in coding and programming
 - 🌱 I’m currently learning Data Science & Power BI
 - 💥 I’m looking for other IT enthusiasts for cooperation
-- 📫 How to reach me - imediasystem@hotmail.com</br>
+- 💻 How to reach me - imediasystem@hotmail.com</br>
 
 <b>Connect with me</b>
 
