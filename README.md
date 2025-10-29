@@ -9,7 +9,8 @@
 - 👀 I’m interested in coding and programming
 - 🌱 I’m currently learning Data Science & Power BI
 - 💥 I’m looking for other IT enthusiasts for cooperation
-- 💻 How to reach me - imediasystem@hotmail.com</br>
+- 💻 How to reach me - imediasystem@hotmail.com
+- 🤝 You can also find me on [Linkedin](https://www.linkedin.com/company/imedia-system/about/?viewAsMember=true) ↗️</br>
 
 <b>Connect with me</b>
 
