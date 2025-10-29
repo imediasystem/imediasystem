@@ -6,11 +6,11 @@
 - 😎 I’m a Web Designer and .NET Web Dev from Poland
 - ✨ I'm working on multiple frontend / backend projects & web apps
 - 🖥️ I'm using HTML5, CSS3, JavaScript, jQuery, Ember, Angular, npm, Node.js & .NET, C#
-- 👀 I’m interested in coding and programming
+- 💕 In love with coding and programming
 - 🌱 I’m currently learning Data Science & Power BI
-- 💥 I’m looking for other IT enthusiasts for cooperation
+- 👀 I’m looking for other IT enthusiasts for cooperation
 - 💻 How to reach me - imediasystem@hotmail.com
-- 🤝 You can also find me on [Linkedin](https://www.linkedin.com/company/imedia-system/about/?viewAsMember=true) ↗️</br>
+- 🤝 You can also find me on [Linkedin](https://www.linkedin.com/company/imedia-system/about/?viewAsMember=true) ↗️ or [Facebook](https://www.facebook.com/profile.php?id=61577832340228) ↗️</br>
 
 <b>Connect with me</b>
 
