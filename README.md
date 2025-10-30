@@ -3,7 +3,7 @@
 
 <b>Hello World!</b>
 
-- 😎 Web Designer and .NET Web Dev from Poland
+- 😎 Web Designer and .NET Web Developer from Poland
 - ✨ Working on multiple frontend / backend projects & web apps
 - 🖥️ Using HTML5, CSS3, JavaScript, jQuery, Ember, Angular, npm, Node.js & .NET, C#
 - 💕 In love with coding and programming
