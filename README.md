@@ -10,8 +10,7 @@
 - 🌱 Learning more about Data Science & Power BI
 - 👀 Looking for other IT enthusiasts for cooperation
 - 💻 How to reach me - imediasystem@hotmail.com
-- 🤝 You can also find me on [Linkedin](https://www.linkedin.com/company/imedia-system/about/?viewAsMember=true) ↗️ or [Facebook](https://www.facebook.com/profile.php?id=61577832340228) ↗️</br>
-
+- 🤝 You can also find me on [Linkedin](https://www.linkedin.com/company/imedia-system/about/?viewAsMember=true) ↗️ or [Facebook](https://www.facebook.com/profile.php?id=61577832340228) ↗️
 &nbsp;
 <hr>
 
@@ -28,7 +27,7 @@
 <img align="left" alt="visual-studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
 <img align="left" alt="visual-studio-code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img align="left" alt="adobe-premiere-pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
-
+<br>
 &nbsp;
 <hr>
 <b>MEAN Stack</b>
