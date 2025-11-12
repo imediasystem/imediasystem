@@ -27,13 +27,13 @@
 <img align="left" alt="adobe-premiere-pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
 
 &nbsp;
-
+<hr>
 <b>MEAN Stack</b>
 
 ![mean-stack500](https://github.com/user-attachments/assets/da2757ad-da08-48ed-b254-64bba1aa5043)
 
 &nbsp;
-
+<hr>
 <b>Front-End</b>
 
 <img align="left" alt="jquery" src="https://img.shields.io/badge/jquery-brown.svg?style=for-the-badge&logo=jquery&logoColor=%23F7DF1E" />
