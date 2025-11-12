@@ -31,7 +31,6 @@
 <b>MEAN Stack</b>
 
 ![mean-stack500](https://github.com/user-attachments/assets/da2757ad-da08-48ed-b254-64bba1aa5043)
-
 &nbsp;
 <hr>
 <b>Front-End</b>
