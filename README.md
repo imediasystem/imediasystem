@@ -11,7 +11,10 @@
 - 👀 Looking for other IT enthusiasts for cooperation
 - 💻 How to reach me - imediasystem@hotmail.com
 - 🤝 You can also find me on [Linkedin](https://www.linkedin.com/company/imedia-system/about/?viewAsMember=true) ↗️ or [Facebook](https://www.facebook.com/profile.php?id=61577832340228) ↗️</br>
+
+&nbsp;
 <hr>
+
 <b>Connect with me</b>
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/company/101163318/admin/feed/posts/)
@@ -33,6 +36,7 @@
 ![mean-stack500](https://github.com/user-attachments/assets/da2757ad-da08-48ed-b254-64bba1aa5043)
 &nbsp;
 <hr>
+
 <b>Front-End</b>
 
 <img align="left" alt="jquery" src="https://img.shields.io/badge/jquery-brown.svg?style=for-the-badge&logo=jquery&logoColor=%23F7DF1E" />
@@ -52,6 +56,7 @@
 <img align="left" alt="babel" src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" />
 <img align="left" alt="webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
 <br>
+
 &nbsp;
 <hr>
 <b>My Apps Projects</b>
