@@ -11,7 +11,7 @@
 - 👀 Looking for other IT enthusiasts for cooperation
 - 💻 How to reach me - imediasystem@hotmail.com
 - 🤝 You can also find me on [Linkedin](https://www.linkedin.com/company/imedia-system/about/?viewAsMember=true) ↗️ or [Facebook](https://www.facebook.com/profile.php?id=61577832340228) ↗️</br>
-
+<hr>
 <b>Connect with me</b>
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/company/101163318/admin/feed/posts/)
