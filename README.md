@@ -25,11 +25,17 @@
 <b>Expertise</b>
 
 <img align="left" alt="visual-studio-code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img align="left" alt="adobe-premiere-pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-e06aff.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
-<img align="left" alt="adobe-after-effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-ce91fe.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" />
+<img align="left" alt="visual-studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
 <br>
 &nbsp;
 <hr>
+
+<b>Video Production</b>
+
+<img width="450" height="123" alt="Adobe Production 450" src="https://github.com/user-attachments/assets/7e51a925-c3f5-49a4-82db-80d639b8c147" />
+&nbsp;
+<hr>
+
 <b>MEAN Stack</b>
 
 ![mean-stack500](https://github.com/user-attachments/assets/da2757ad-da08-48ed-b254-64bba1aa5043)
