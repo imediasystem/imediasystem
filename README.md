@@ -7,7 +7,7 @@
 - ✨ Working on multiple frontend / backend projects & web apps
 - 🖥️ Using HTML5, CSS3, JavaScript, jQuery, Angular, npm, Node.js & .NET, C#
 - 💕 In love with non-linear video editing
-- 🌱 Learning more about Data Analysis & Power BI
+- 🌱 Learning more about coding & programming
 - 👀 Looking for other IT enthusiasts for cooperation
 - 💻 How to reach me - imediasystem@hotmail.com
 - 🤝 You can also find me on [Linkedin](https://www.linkedin.com/company/imedia-system/about/?viewAsMember=true) ↗️ or [Facebook](https://www.facebook.com/profile.php?id=61577832340228) ↗️
