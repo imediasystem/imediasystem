@@ -24,9 +24,9 @@
 
 <b>Expertise</b>
 
-<img align="left" alt="visual-studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
 <img align="left" alt="visual-studio-code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img align="left" alt="adobe-premiere-pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
+<img align="left" alt="adobe-premiere-pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-e06aff.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
+<img align="left" alt="adobe-after-effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-ce91fe.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" />
 <br>
 &nbsp;
 <hr>
