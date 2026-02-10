@@ -5,7 +5,7 @@
 
 - 😎 Web Designer and .NET Web Developer from Poland
 - ✨ Working on multiple frontend / backend projects & web apps
-- 🖥️ Using HTML5, CSS3, JavaScript, jQuery, Ember, Angular, npm, Node.js & .NET, C#
+- 🖥️ Using HTML5, CSS3, JavaScript, jQuery, Angular, npm, Node.js & .NET, C#
 - 💕 In love with coding and programming
 - 🌱 Learning more about Data Analysis & Power BI
 - 👀 Looking for other IT enthusiasts for cooperation
