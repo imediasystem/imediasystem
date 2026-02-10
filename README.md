@@ -6,7 +6,7 @@
 - 😎 Web Designer and .NET Web Developer from Poland
 - ✨ Working on multiple frontend / backend projects & web apps
 - 🖥️ Using HTML5, CSS3, JavaScript, jQuery, Angular, npm, Node.js & .NET, C#
-- 💕 In love with coding and programming
+- 💕 In love with non-linear video editing
 - 🌱 Learning more about Data Analysis & Power BI
 - 👀 Looking for other IT enthusiasts for cooperation
 - 💻 How to reach me - imediasystem@hotmail.com
