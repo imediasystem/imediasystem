@@ -3,7 +3,7 @@
 
 <b>Hello World!</b>
 
-- 😎 Web Designer and .NET Web Developer from Poland
+- 😎 Web Designer and Video Creator from Poland
 - ✨ Working on multiple frontend / backend projects & web apps
 - 🖥️ Using HTML5, CSS3, JavaScript, jQuery, Angular, npm, Node.js & .NET, C#
 - 💕 In love with non-linear video editing
