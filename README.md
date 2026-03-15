@@ -4,7 +4,7 @@
 <b>Hello World!</b>
 
 - 😎 Web Designer and Video Creator from Poland
-- ✨ Working on multiple frontend / backend projects & web apps
+- ✨ Working on multiple frontend, backend & web apps projects
 - 🖥️ Using HTML5, CSS3, JavaScript, jQuery, Angular, npm, Node.js & .NET, C#
 - 💕 In love with non-linear video editing
 - 🌱 Learning more about coding & programming
