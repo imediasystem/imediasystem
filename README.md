@@ -1,7 +1,21 @@
 ![iMedia SysteM 8 - 113 horizontal](https://github.com/user-attachments/assets/4f8845ec-6b51-44a3-8360-e146b1a9265e)
 
+# Hello World! 👋
 
-<b>Hello World!</b>
+### 🚀 Freelance Web Designer | Video Creator | Adobe Trainer
+
+Pomagam firmom i markom osobistym zaistnieć w sieci. Tworzę strony internetowe, które są nie tylko ładne, ale przede wszystkim **szybkie, responsywne (RWD) i zoptymalizowane pod kątem SEO**.
+Zamieniam pomysły w działające produkty online.
+
+## 🛠️ Technologie, w których pracuję
+
+### Frontend & Design
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jquery-brown.svg?style=for-the-badge&logo=jquery&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 - 😎 Web Designer and Video Creator from Poland
 - ✨ Working on multiple frontend, backend & web apps projects
