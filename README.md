@@ -25,7 +25,7 @@ Let's turn your ideas into functional digital products.
 <img align="left" alt="visual-studio-code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img align="left" alt="visual-studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
 <img align="left" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img align="left" alt="Kali" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img align="left" alt="GIT" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)" />
 &nbsp;
 
 ## Video Creation
