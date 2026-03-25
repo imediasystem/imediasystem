@@ -8,6 +8,9 @@ I help brands and businesses stand out online.<br>
 I build fast, responsive, and SEO-friendly websites that don’t just look great, but drive results.<br>
 Let's turn your ideas into functional digital products.
 
+> **Ready to bring your vision to life? Drop me a message and let's create something amazing together!**
+&nbsp;
+
 - 😎 Web Designer, Video Creator & Adobe Trainer from Poland
 - ✨ Working on multiple frontend, backend & web apps projects
 - 🖥️ Using HTML5, CSS3, JavaScript, jQuery, Bootstrap & Angular
@@ -17,8 +20,6 @@ Let's turn your ideas into functional digital products.
 - 💻 How to reach me - imediasystem@hotmail.com
 - 🤝 You can also find me on [Linkedin](https://www.linkedin.com/company/imedia-system/about/?viewAsMember=true) ↗️ or [Facebook](https://www.facebook.com/profile.php?id=61577832340228) ↗️
   
-> **Ready to bring your vision to life? Drop me a message and let's create something amazing together!**
-&nbsp;
 <hr>
 
 ### Expertise
