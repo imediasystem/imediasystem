@@ -17,9 +17,6 @@ Zamieniam pomysły w działające produkty online.
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-- 😎 Web Designer and Video Creator from Poland
-- ✨ Working on multiple frontend, backend & web apps projects
-- 🖥️ Using HTML5, CSS3, JavaScript, jQuery, Bootstrap & Angular
 - 💕 In love with non-linear video editing
 - 🌱 Learning more about coding & programming
 - 👀 Looking for other IT enthusiasts for cooperation
