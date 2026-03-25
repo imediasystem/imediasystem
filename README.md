@@ -13,7 +13,7 @@ Let's turn your ideas into functional digital products.
 
 - 😎 Web Designer, Video Creator & Adobe Trainer from Poland
 - ✨ Working on multiple frontend, backend & web apps projects
-- 🖥️ Using HTML5, CSS3, JavaScript, jQuery, Bootstrap & Angular
+- 🖥️ Using HTML5, CSS3, JavaScript, jQuery, Bootstrap & TailWind
 - 💕 In love with non-linear video editing
 - 🌱 Learning more about coding & programming
 - 👀 Looking for other IT enthusiasts for cooperation
