@@ -21,7 +21,7 @@ Let's turn your ideas into functional digital products.
 &nbsp;
 <hr>
 
-<b>Expertise</b>
+### Expertise
 
 <img align="left" alt="visual-studio-code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img align="left" alt="visual-studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
@@ -30,19 +30,17 @@ Let's turn your ideas into functional digital products.
 &nbsp;
 <hr>
 
-<b>Video Creation</b>
+### Video Creation
 
 <img width="450" height="123" alt="Adobe Production 450" src="https://github.com/user-attachments/assets/7e51a925-c3f5-49a4-82db-80d639b8c147" />
 &nbsp;
 <hr>
 
-<b>MEAN Stack</b>
+### MEAN Stack
 
 ![mean-stack500](https://github.com/user-attachments/assets/da2757ad-da08-48ed-b254-64bba1aa5043)
 &nbsp;
 <hr>
-
-## 🛠️ Skills & Tools
 
 ### Frontend & Design
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
