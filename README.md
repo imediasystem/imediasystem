@@ -11,7 +11,7 @@ Let's turn your ideas into functional digital products.
 > **Ready to bring your vision to life? Drop me a message and let's create something amazing together!**
 &nbsp;
 
-- 😎 Web Designer, Video Creator & Adobe Trainer from Poland
+- 😎 Web Designer, Video Creator & Adobe Trainer from Katowice
 - ✨ Working on multiple frontend, backend & web apps projects
 - 🖥️ Using HTML5, CSS3, JavaScript, jQuery, Bootstrap & TailWind
 - 💕 In love with non-linear video editing
