@@ -49,27 +49,18 @@ Let's turn your ideas into functional digital products.
 ![jQuery](https://img.shields.io/badge/jquery-brown.svg?style=for-the-badge&logo=jquery&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-<b>Front-End</b>
-
-<img align="left" alt="jquery" src="https://img.shields.io/badge/jquery-brown.svg?style=for-the-badge&logo=jquery&logoColor=%23F7DF1E" />
-<img align="left" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img align="left" alt="sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
-<img align="left" alt="less" src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white" />
-
 &nbsp;
 
-<b>Back-End</b>
+### Back-End
 
 <img align="left" alt="npm" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
 <img align="left" alt="gulp" src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" />
 <img align="left" alt="babel" src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" />
 <img align="left" alt="webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
 <br>
-
 &nbsp;
 <hr>
-<b>My Apps Projects</b>
+### My Apps Projects
 
 ![CaseSkill-200](https://github.com/imediasystem/imediasystem/assets/125789515/184202c2-d371-48f6-9d64-14a52baa3d56)
 ![PaySal-200](https://github.com/imediasystem/imediasystem/assets/125789515/3ccb7154-0f67-4346-8895-a0c0cb778c72)
