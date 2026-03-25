@@ -2,7 +2,7 @@
 
 # Hello World! 👋
 
-### 🚀 Freelance Web Designer | Video Creator | Adobe Trainer
+### Freelance Web Designer | Video Creator | Adobe Trainer
 
 I help brands and businesses stand out online.<br>
 I build fast, responsive, and SEO-friendly websites that don’t just look great, but drive results.<br>
