@@ -4,10 +4,11 @@
 
 ### 🚀 Freelance Web Designer | Video Creator | Adobe Trainer
 
-Pomagam firmom i markom osobistym zaistnieć w sieci. Tworzę strony internetowe, które są nie tylko ładne, ale przede wszystkim **szybkie, responsywne (RWD) i zoptymalizowane pod kątem SEO**.
-Zamieniam pomysły w działające produkty online.
+I help brands and businesses stand out online.<br>
+I build fast, responsive, and SEO-friendly websites that don’t just look great, but drive results.<br>
+Let's turn your ideas into functional digital products.
 
-- 😎 Web Designer and Video Creator from Poland
+- 😎 Web Designer, Video Creator & Adobe Trainer from Poland
 - ✨ Working on multiple frontend, backend & web apps projects
 - 🖥️ Using HTML5, CSS3, JavaScript, jQuery, Bootstrap & Angular
 - 💕 In love with non-linear video editing
@@ -41,7 +42,7 @@ Zamieniam pomysły w działające produkty online.
 &nbsp;
 <hr>
 
-## 🛠️ Technologie, w których pracuję
+## 🛠️ Skills & Tools
 
 ### Frontend & Design
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
