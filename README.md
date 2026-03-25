@@ -7,19 +7,10 @@
 Pomagam firmom i markom osobistym zaistnieć w sieci. Tworzę strony internetowe, które są nie tylko ładne, ale przede wszystkim **szybkie, responsywne (RWD) i zoptymalizowane pod kątem SEO**.
 Zamieniam pomysły w działające produkty online.
 
-## 🛠️ Technologie, w których pracuję
-
-### Frontend & Design
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jquery-brown.svg?style=for-the-badge&logo=jquery&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
 - 😎 Web Designer and Video Creator from Poland
 - ✨ Working on multiple frontend, backend & web apps projects
-- 🖥️ Using HTML5, CSS3, JavaScript, jQuery, Bootstrap & Angular- 💕 In love with non-linear video editing
+- 🖥️ Using HTML5, CSS3, JavaScript, jQuery, Bootstrap & Angular
+- 💕 In love with non-linear video editing
 - 🌱 Learning more about coding & programming
 - 👀 Looking for other IT enthusiasts for cooperation
 - 💻 How to reach me - imediasystem@hotmail.com
@@ -49,6 +40,16 @@ Zamieniam pomysły w działające produkty online.
 ![mean-stack500](https://github.com/user-attachments/assets/da2757ad-da08-48ed-b254-64bba1aa5043)
 &nbsp;
 <hr>
+
+## 🛠️ Technologie, w których pracuję
+
+### Frontend & Design
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jquery-brown.svg?style=for-the-badge&logo=jquery&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <b>Front-End</b>
 
