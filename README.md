@@ -33,10 +33,6 @@ Let's turn your ideas into functional digital products.
 
 <img width="570" height="123" alt="Adobe Production 570" src="https://github.com/user-attachments/assets/2efde029-3ef2-438e-bbc6-2b2a313e307d" />
 
-
-<img width="450" height="123" alt="Adobe Production 450" src="https://github.com/user-attachments/assets/7e51a925-c3f5-49a4-82db-80d639b8c147" />
-&nbsp;
-
 ## MEAN Stack
 
 ![mean-stack500](https://github.com/user-attachments/assets/da2757ad-da08-48ed-b254-64bba1aa5043)
