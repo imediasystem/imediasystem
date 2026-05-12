@@ -2,7 +2,7 @@
 
 # Hello World! 👋
 
-### Freelance Web Designer | Video Creator | Adobe CC Trainer
+## Freelance Web Designer | Video Creator | Adobe CC Trainer
 
 I help brands and businesses stand out online.<br>
 I build fast, responsive, and SEO-friendly websites that don’t just look great, but drive results.<br>
@@ -68,7 +68,7 @@ Let's turn your ideas into functional digital products.
 ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
 &nbsp;
 
-## Back-End
+## Backend
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
