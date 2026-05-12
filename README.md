@@ -20,14 +20,14 @@ Let's turn your ideas into functional digital products.
 - 💻 How to reach me - imediasystem@hotmail.com
 - 🤝 You can also find me on [Linkedin](https://www.linkedin.com/company/imedia-system/about/?viewAsMember=true) ↗️ or [Facebook](https://www.facebook.com/profile.php?id=61577832340228) ↗️
   
-## Expertise
+### Expertise
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 &nbsp;
 
-## Specialist
+### Specialist
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -35,23 +35,23 @@ Let's turn your ideas into functional digital products.
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 &nbsp;
 
-## Video Creation
+### Video Creation
 
 <img width="570" height="123" alt="Adobe Production 570" src="https://github.com/user-attachments/assets/2efde029-3ef2-438e-bbc6-2b2a313e307d" />
 
-## MEAN Stack
+### MEAN Stack
 
 ![mean-stack500](https://github.com/user-attachments/assets/da2757ad-da08-48ed-b254-64bba1aa5043)
 &nbsp;
 
-## Design
+### Design
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/davinci_resolve-%23233A51.svg?style=for-the-badge&logo=davinciresolve&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 &nbsp;
 
-## Gaming
+### Gaming
 ![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white)
 ![MSI](https://img.shields.io/badge/msi-%23000000.svg?style=for-the-badge&logo=msi&logoColor=%23FF0000)
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
@@ -59,7 +59,7 @@ Let's turn your ideas into functional digital products.
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 &nbsp;
 
-## Frontend
+### Frontend
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![LESS](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-brown.svg?style=for-the-badge&logo=jquery&logoColor=%23F7DF1E)
@@ -68,7 +68,7 @@ Let's turn your ideas into functional digital products.
 ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
 &nbsp;
 
-## Backend
+### Backend
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -77,7 +77,7 @@ Let's turn your ideas into functional digital products.
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 &nbsp;
 
-## My Apps Projects
+### My Apps Projects
 
 ![CaseSkill-200](https://github.com/imediasystem/imediasystem/assets/125789515/184202c2-d371-48f6-9d64-14a52baa3d56)
 ![PaySal-200](https://github.com/imediasystem/imediasystem/assets/125789515/3ccb7154-0f67-4346-8895-a0c0cb778c72)
