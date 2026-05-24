@@ -1,4 +1,5 @@
-<img width="643" height="113" alt="iMedia SysteM 8 horizontal 113-45" src="https://github.com/user-attachments/assets/7586c298-0cd2-49e3-96d5-7a4b4a8fd0b6" />
+![imediasystem-logo](https://github.com/user-attachments/assets/7586c298-0cd2-49e3-96d5-7a4b4a8fd0b6)
+&nbsp;
 
 # Hello World! 👋
 
