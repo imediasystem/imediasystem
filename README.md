@@ -1,4 +1,4 @@
-![iMedia SysteM 8 - 113 horizontal](https://github.com/user-attachments/assets/4f8845ec-6b51-44a3-8360-e146b1a9265e)
+<img width="643" height="113" alt="iMedia SysteM 8 horizontal 113-45" src="https://github.com/user-attachments/assets/7586c298-0cd2-49e3-96d5-7a4b4a8fd0b6" />
 
 # Hello World! 👋
 
