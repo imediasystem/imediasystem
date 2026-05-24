@@ -37,7 +37,7 @@ Let's turn your ideas into functional digital products.
 
 ### Video Creation
 
-<img width="570" height="123" alt="Adobe Production 570" src="https://github.com/user-attachments/assets/2efde029-3ef2-438e-bbc6-2b2a313e307d" />
+![adobe-creation](https://github.com/user-attachments/assets/2efde029-3ef2-438e-bbc6-2b2a313e307d)
 
 ### MEAN Stack
 
