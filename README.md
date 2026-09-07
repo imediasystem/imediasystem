@@ -18,7 +18,7 @@ Let's turn your ideas into functional digital products.
 - 💕 In love with video creation and non-linear video editing
 - 🌱 Learning more about coding & programming
 - 👀 Looking for other IT enthusiasts for cooperation
-- 💻 How to reach me - imediasystem@hotmail.com
+- 💻 How to reach me - www.imediasystem.pl
 - 🤝 You can also find me on [Linkedin](https://www.linkedin.com/company/imedia-system/about/?viewAsMember=true) ↗️ or [Facebook](https://www.facebook.com/profile.php?id=61577832340228) ↗️
   
 ### Expertise
