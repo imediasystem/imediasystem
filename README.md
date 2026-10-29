@@ -3,7 +3,7 @@
 
 # Hello World! 👋
 
-## Web Designer | Video Creator | Adobe CC Trainer
+## Web Designer | Video Creator | Adobe CC Trainer | CyberSecurity Specialist
 
 I help brands and businesses stand out online.<br>
 I build fast, responsive, and SEO-friendly websites that don’t just look great, but drive results.<br>
