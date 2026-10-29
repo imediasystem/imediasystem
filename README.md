@@ -54,7 +54,7 @@ Let's turn your ideas into functional digital products.
 
 ### CyberSecurity
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)
 ![PrivateInternetAccess](https://img.shields.io/badge/privateinternetaccess-%231E811F.svg?style=for-the-badge&logo=privateinternetaccess&logoColor=white)
 &nbsp;
